@@ -20,8 +20,8 @@ from business workflow to bare metal. We build our own products on the same foun
   The agentic lakehouse for data engineering and analytics. An entire data team. One
   download. In private development; early access by invitation.
 - **[Inteliwert](https://github.com/inteliwertai)**
-  The procurement platform for supplier intelligence and tender search: find, assess
-  and monitor suppliers, and find the tenders worth winning.
+  Find relevant tenders and grants. Get to the evidence faster: German and EU
+  opportunities and the documents behind them, searchable in one place. In development.
 
 ### How we build
 
